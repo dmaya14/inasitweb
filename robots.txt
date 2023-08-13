@@ -1,0 +1,238 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://inasit.com/sitemap.xml
+
+# Custom settings for search engines
+# Reemplaza "INASIT - CONSTRUCTORES S.A. DE C.V" con el nombre real de tu sitio
+# y "Somos una empresa dedicada..." con tu descripción real.
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: Yandex
+User-agent: Baiduspider
+User-agent: Sogou
+User-agent: Exabot
+User-agent: ia_archiver
+User-agent: SeznamBot
+User-agent: Ezooms
+User-agent: Mail.RU_Bot
+User-agent: AhrefsBot
+User-agent: SiteCheck-sitecrawl
+User-agent: dotbot
+User-agent: Mj12bot
+User-agent: BLEXBot
+User-agent: TurnitinBot
+User-agent: SISTRIX Crawler
+User-agent: NetcraftSurveyAgent
+User-agent: SemrushBot
+User-agent: lipperhey
+User-agent: crawl
+User-agent: spbot
+User-agent: msnbot
+User-agent: Wotbox
+User-agent: TrendMicro
+User-agent: MojeekBot
+User-agent: VoilaBot
+User-agent: ExB Language Crawler
+User-agent: LivelapBot
+User-agent: iCjobs
+User-agent: DnyzBot
+User-agent: LinkpadBot
+User-agent: HTTrack
+User-agent: 007ac9 Crawler
+User-agent: CompSpyBot
+User-agent: Xenu's Link Sleuth 1.1c
+User-agent: Ezooms/1.0
+User-agent: ia_archiver
+User-agent: Alexibot
+User-agent: Updownerbot
+User-agent: dirbuster
+User-agent: FreshBot
+User-agent: Findxbot
+User-agent: FyberSpider
+User-agent: BLEXBot
+User-agent: SafeDNSBot
+User-agent: GrapeshotCrawler
+User-agent: Infohelfer
+User-agent: etools EasvPeasy
+User-agent: EasyBib AutoCite
+User-agent: RankSonicSiteAuditor
+User-agent: abot
+User-agent: CrystalSemanticsBot
+User-agent: DomainStatsBot
+User-agent: HaoSouSpider
+User-agent: linguee
+User-agent: Microsoft Office Word 2013
+User-agent: MJ12bot
+User-agent: nekstbot
+User-agent: Nmap Scripting Engine
+User-agent: OpenindexSpider
+User-agent: Powermarks
+User-agent: Scrapy
+User-agent: Screaming Frog SEO Spider
+User-agent: Site24x7
+User-agent: ThumbShotsBot
+User-agent: WebCapture
+User-agent: WebZIP
+User-agent: WPScan
+User-agent: Wget
+User-agent: xovibot
+User-agent: XoviBot
+User-agent: ZoominfoBot
+User-agent: ZoominfoBot (zoominfobot at zoominfo dot com)
+User-agent: DotBot
+
+# Información específica para motores de búsqueda
+# Cambia "INASIT - CONSTRUCTORES S.A. DE C.V" y la descripción
+# a los valores reales de tu sitio.
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: Slurp
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+User-agent: Yandex
+Allow: /
+User-agent: Baiduspider
+Allow: /
+User-agent: Sogou
+Allow: /
+User-agent: Exabot
+Allow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: SeznamBot
+Disallow: /
+User-agent: Ezooms
+Disallow: /
+User-agent: Mail.RU_Bot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SiteCheck-sitecrawl
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: Mj12bot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: TurnitinBot
+Disallow: /
+User-agent: SISTRIX Crawler
+Disallow: /
+User-agent: NetcraftSurveyAgent
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: lipperhey
+Disallow: /
+User-agent: crawl
+Disallow: /
+User-agent: spbot
+Disallow: /
+User-agent: msnbot
+Disallow: /
+User-agent: Wotbox
+Disallow: /
+User-agent: TrendMicro
+Disallow: /
+User-agent: MojeekBot
+Disallow: /
+User-agent: VoilaBot
+Disallow: /
+User-agent: ExB Language Crawler
+Disallow: /
+User-agent: LivelapBot
+Disallow: /
+User-agent: iCjobs
+Disallow: /
+User-agent: DnyzBot
+Disallow: /
+User-agent: LinkpadBot
+Disallow: /
+User-agent: HTTrack
+Disallow: /
+User-agent: 007ac9 Crawler
+Disallow: /
+User-agent: CompSpyBot
+Disallow: /
+User-agent: Xenu's Link Sleuth 1.1c
+Disallow: /
+User-agent: Ezooms/1.0
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: Alexibot
+Disallow: /
+User-agent: Updownerbot
+Disallow: /
+User-agent: dirbuster
+Disallow: /
+User-agent: FreshBot
+Disallow: /
+User-agent: Findxbot
+Disallow: /
+User-agent: FyberSpider
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: SafeDNSBot
+Disallow: /
+User-agent: GrapeshotCrawler
+Disallow: /
+User-agent: Infohelfer
+Disallow: /
+User-agent: etools EasvPeasy
+Disallow: /
+User-agent: EasyBib AutoCite
+Disallow: /
+User-agent: RankSonicSiteAuditor
+Disallow: /
+User-agent: abot
+Disallow: /
+User-agent: CrystalSemanticsBot
+Disallow: /
+User-agent: DomainStatsBot
+Disallow: /
+User-agent: HaoSouSpider
+Disallow: /
+User-agent: linguee
+Disallow: /
+User-agent: Microsoft Office Word 2013
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: nekstbot
+Disallow: /
+User-agent: Nmap Scripting Engine
+Disallow: /
+User-agent: OpenindexSpider
+Disallow: /
+User-agent: Powermarks
+Disallow: /
+User-agent: Scrapy
+Disallow: /
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+User-agent: Site24x7
+Disallow: /
+User-agent: ThumbShotsBot
+Disallow: /
+User-agent: WebCapture
+Disallow: /
+User-agent: WebZIP
+Disallow: /
+User-agent: WPScan
+Disallow: /
+User-agent: Wget
+Disallow: /
+User-agent: xovibot
+Disallow: /
+User-agent: XoviBot
+Disallow: /
+User-agent: Zoominfo
